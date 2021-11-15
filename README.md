@@ -1,5 +1,4 @@
-# Product Advertising API SDK for PHP (v1)
-[![CircleCI](https://circleci.com/gh/thewirecutter/paapi5-php-sdk.svg?style=svg)](https://circleci.com/gh/thewirecutter/paapi5-php-sdk)
+# Amazon Product Advertising API for PHP (v5)
 
 This repository contains the open source PHP SDK that allows you to access the [Product Advertising API](https://webservices.amazon.com/paapi5/documentation/index.html) from your PHP app.
 
@@ -8,7 +7,7 @@ This repository contains the open source PHP SDK that allows you to access the [
 The Product Advertising API PHP SDK can be installed with [Composer](https://getcomposer.org/). Run this command:
 
 ```sh
-$ composer require thewirecutter/paapi5-php-sdk
+$ composer require appinfini/amazon-product-advertising-api-v5
 ```
 ## Usage
 
