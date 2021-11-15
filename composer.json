@@ -5,8 +5,8 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "Amazon\\AmazonProductAdvertisingApiV5\\": "paapi5-php-sdk/src/",
-            "Appinfini\\Amazon\\ProductAdvertisingApi\\": "src/"
+            "Amazon\\AmazonProductAdvertisingApi\\": "paapi5-php-sdk/src/",
+            "Appinfini\\AmazonProductAdvertisingApi\\": "src/"
         }
     },
     "authors": [
