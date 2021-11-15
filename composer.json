@@ -1,0 +1,22 @@
+{
+    "name": "appinfini/amazon-product-advertising-api-v5",
+    "description": "Amazon Product Advertising API (v5).",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Amazon\\AmazonProductAdvertisingApiV5\\": "paapi5-php-sdk/src/",
+            "Appinfini\\Amazon\\ProductAdvertisingApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hari Shankar",
+            "email": "hari@appinfini.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3||^8.0",
+        "guzzlehttp/guzzle": "^6.3||^7.0"
+    }
+}
